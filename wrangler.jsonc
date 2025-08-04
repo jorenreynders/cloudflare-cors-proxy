@@ -1,0 +1,5 @@
+{
+"name": "cors-proxy",
+"compatibility_date": "2025-08-04",
+"main": "src/index.ts"
+}
